@@ -1,0 +1,10 @@
+* {
+  background: black;
+  color: white;
+}
+
+body {
+  display: block;
+  text-align: center;
+  justify-content: center;
+}
